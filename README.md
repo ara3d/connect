@@ -32,7 +32,10 @@ To get started with Ara 3D connect:
 1. initialize a repository using the _Initialize_ tool.    
 1. install one or more _Publishing_ tools (e.g., a plug-in or command line tool) to publish selected data from your design documents
 1. configure the publishing tool to declare which data you want to share, and when to publish (e.g., automatic or manual) 
-1. start authoring and publishing your design documents 
+1. start authoring and publishing your design documents
+
+To get the full power of Ara 3D connect, you and your colleagues can:
+
 1. install and configure a _Reviewing_ tool, to track and review changes across the project.  
 
 ## Functionality  
