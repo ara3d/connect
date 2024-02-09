@@ -47,9 +47,9 @@ Some work as plug-ins, and others as command-line tools.
 
 There are three types of tools:
 
-* Initialization - creates repositories locally and remotely, and installs or updates other tools.
-* Publishing - push changes to repositories automatically or manually 
-* Reviewing - track changes and conflicts, provides mechanisms for approving, rejecting, and resolving conflicts 
+* **Initialization** - creates repositories locally and remotely, and installs or updates other tools.
+* **Publishing** - push changes to repositories automatically or manually 
+* **Reviewing** - track changes and conflicts, provides mechanisms for approving, rejecting, and resolving conflicts 
 
 ## Identity Conflicts 
 
