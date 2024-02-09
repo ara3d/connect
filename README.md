@@ -13,7 +13,7 @@ source design data, so it works seamlessly with your current workflows and data 
 
 ## How it Works
 
-Ara 3D Connect by default stores component and entity identification data for a project in a Git repository. 
+Ara 3D Connect by default stores component and entity identification data for a project in JSON files in a Git repository. 
 
 You **do not** have to be familiar with Git to use Ara 3D Connect. The tools automate and streamline the process so 
 you never have to leave your BIM authoring environment.  
