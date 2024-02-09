@@ -58,7 +58,8 @@ mechanisms to know when two identifiers in different tools or documents are refe
 
 ## An ECS Data Architecture
 
-Ara 3D connect uses an Entity Component System (ECS) architecture inspired by [Strange Matter](https://github.com/gschleusner1972/strange_matter).  
+Ara 3D connect uses an Entity Component System (ECS) architecture inspired by [Strange Matter](https://github.com/gschleusner1972/strange_matter)
+and the [Unity](https://unity.com/ecs) game engine.
 
 ## Relationship to Speckle 
 
@@ -74,7 +75,7 @@ Speckle and Ara 3D Connect can both co-exist and provide value together.
 We wish to acknowledge the contributions of the following people and organizations:
 
 * [Members of team "Identity"](https://github.com/ara3d/aec-hackathon-identity) who won **Best Overall Project** at the Zurich AEC Hackathon in February 2024.
-* Greg Schleusner whose work on [Strange Matter](https://github.com/gschleusner1972/strange_matter) was very influential
-* [Maximilian Vomhof](https://www.linkedin.com/in/maximilian-vomhof-ba186a60/), [Opensource Construction](https://www.opensource.construction/en), and [Zhaw University](https://www.zhaw.ch/en/university/) who hosted and organized the AEC Hackathon in Zurich 2024.
-* [Damon Hernandez](https://www.linkedin.com/in/damonhernandez/) and the other creators and organizers of the [AEC Hackathon organization](https://hackaec.com/).
-
+* Philippe Block, Edyta Augustynowicz and Yashar Moradi who adjudicated the Zurich AEC Hackathon.
+* Greg Schleusner whose work on [Strange Matter](https://github.com/gschleusner1972/strange_matter) was very influential.
+* Maximilian Vomhof, [Opensource Construction](https://www.opensource.construction/en), and [Zhaw University](https://www.zhaw.ch/en/university/) who hosted and organized the AEC Hackathon in Zurich 2024.
+* Damon Hernandez and the other founders and organizers of the [AEC Hackathon organization](https://hackaec.com/).
