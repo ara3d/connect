@@ -53,8 +53,8 @@ There are three types of tools:
 
 ## Identity Conflicts 
 
-One of the key contributions of Ara 3D Connect is that it solves the [_identity problem_](https://github.com/ara3d/aec-hackathon-identity).  
-This means it provides mechanism to know when two identifiers in different tools or documents are refering to the same entity. 
+One of the key contributions of Ara 3D Connect is that it solves the _identity problem_. This means it provides 
+mechanisms to know when two identifiers in different tools or documents are refering to the same entity. 
 
 ## An ECS Data Architecture
 
@@ -67,4 +67,14 @@ At the top-level, Speckle is a replacement for Git, and Ara 3D Connect works wit
 Speckle _converts_ design data into an object-representation that it stores in a server. Only data on the server is versioned. Ara 3D on the other
 hand creates a reference to the design document data.      
 
-Speckle and Ara 3D Connect can both co-exist and provide value together. 
+Speckle and Ara 3D Connect can both co-exist and provide value together.
+
+## Acknowledgements 
+
+We wish to acknowledge the contributions of the following people and organizations:
+
+* [Members of team "Identity"](https://github.com/ara3d/aec-hackathon-identity) who won **Best Overall Project** at the Zurich AEC Hackathon in February 2024.
+* Greg Schleusner whose work on [Strange Matter](https://github.com/gschleusner1972/strange_matter) was very influential
+* [Maximilian Vomhof](https://www.linkedin.com/in/maximilian-vomhof-ba186a60/), [Opensource Construction](https://www.opensource.construction/en), and [Zhaw University](https://www.zhaw.ch/en/university/) who hosted and organized the AEC Hackathon in Zurich 2024.
+* [Damon Hernandez](https://www.linkedin.com/in/damonhernandez/) and the other creators and organizers of the [AEC Hackathon organization](https://hackaec.com/).
+
