@@ -36,7 +36,7 @@ To get started with Ara 3D connect:
 
 To get the full power of Ara 3D connect, you and your colleagues can:
 
-1. install and configure a _Reviewing_ tool, to track and review changes across the project.  
+1. install and configure a _Reviewing_ tool, to track and review changes across the project.
 
 ## Functionality  
 
