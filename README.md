@@ -2,7 +2,7 @@
 
 ## Reviewing and Versioning Tools for BIM built on Git 
 
-**Ara 3D Connect** - is an open-source set of tools and specifications for working with BIM data that can work with Git and GitHub.
+**Ara 3D Connect** is an open-source set of tools and specifications for working with BIM data that can work with Git and GitHub.
 
 ## Benefits
 
