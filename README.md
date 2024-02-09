@@ -71,6 +71,7 @@ Speckle and Ara 3D Connect can both co-exist and provide value together.
 
 We wish to acknowledge the contributions of the following people and organizations:
 
+* Valentin Noves of [E-Verse](https://e-verse.com/) who first shared with me a vision of using Git for version control of BIM data in 2020.     
 * [Members of team "Identity"](https://github.com/ara3d/aec-hackathon-identity) who won **Best Overall Project** at the Zurich AEC Hackathon in February 2024.
 * Philippe Block, Edyta Augustynowicz and Yashar Moradi who adjudicated the Zurich AEC Hackathon.
 * Greg Schleusner whose work on [Strange Matter](https://github.com/gschleusner1972/strange_matter) was very influential.
