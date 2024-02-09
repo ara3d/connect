@@ -30,17 +30,18 @@ you never have to leave your BIM authoring environment.
 To get started with Ara 3D connect: 
 
 1. initialize a repository using the _Initialize_ tool.    
-1. install one or more  tools (e.g., a plug-in or command line tool) to publish component data from your design documents
+1. install one or more _Publishing_ tools (e.g., a plug-in or command line tool) to publish selected data from your design documents
 1. configure the publishing tool to declare which data you want to share, and when to publish (e.g., automatic or manual) 
 1. start authoring and publishing your design documents 
-1. install and configure a reviewing tool, to be informed  
+1. install and configure a _Reviewing_ tool, to track and review changes across the project.  
 
 ## Functionality  
 
 Ara 3D Connect includes a suite of open-source tools that are being built for Revit, Rhino, IFC, and more. 
 Some work as plug-ins, and others as command-line tools.
 
-There are three types of tools   
+There are three types of tools:
+
 * Initialization - creates repositories locally and remotely, and installs or updates other tools.
 * Publishing - push changes to repositories automatically or manually 
 * Reviewing - track changes and conflicts, provides mechanisms for approving, rejecting, and resolving conflicts 
